@@ -50,8 +50,6 @@ Controls the visibility of the frame
 
 
 
-7. Acknowledgements 
-This Snake Game implementation is inspired by various online tutorials and examples. Special thanks to the Java Swing documentation and the Java community for valuable resources.
 
 
 
