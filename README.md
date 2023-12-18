@@ -43,6 +43,12 @@ Also user input,updates and rendering.
 
 
 
+
+
+
+
+
+
 Class that sets up the JFrame GameFrame.java
 Manages the basic components for a window.
 Controls the visibility of the frame
